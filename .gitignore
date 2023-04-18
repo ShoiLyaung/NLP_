@@ -1,0 +1,14 @@
+Lab3/stanford-corenlp-4.5.4
+
+# IntelliJ
+**/.idea/
+*.iml
+*.ipr
+*.iws
+
+# jupyter notebook
+**/.ipynb_checkpoints
+
+*.doc
+*.docx
+*.zip
