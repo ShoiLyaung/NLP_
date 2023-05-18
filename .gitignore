@@ -1,4 +1,11 @@
 Lab3/stanford-corenlp-4.5.4
+Lab3/stanford-corenlp-full-2018-10-05
+Lab5/ltp_data_v3.4.0
+Lab5/OpenNRE
+
+*.model
+*.npy
+Lab4/tencent-ailab-embedding-zh-d100-v0.2.0-s.txt
 
 # IntelliJ
 **/.idea/
@@ -12,3 +19,4 @@ Lab3/stanford-corenlp-4.5.4
 *.doc
 *.docx
 *.zip
+*.rar

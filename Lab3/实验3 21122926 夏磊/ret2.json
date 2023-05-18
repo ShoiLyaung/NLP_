@@ -1,0 +1,2292 @@
+{
+  "0": {
+    "cont": "迈向充满希望的新世纪——一九九八年新年讲话（附图片１张）",
+    "word": {
+      "1": {
+        "cont": "迈向",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "2": {
+        "cont": "充满",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "希望",
+        "parent": 2,
+        "relation": "VOB"
+      },
+      "4": {
+        "cont": "的",
+        "parent": 2,
+        "relation": "RAD"
+      },
+      "5": {
+        "cont": "新",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "6": {
+        "cont": "世纪",
+        "parent": 1,
+        "relation": "VOB"
+      },
+      "7": {
+        "cont": "——",
+        "parent": 10,
+        "relation": "WP"
+      },
+      "8": {
+        "cont": "一九九八年",
+        "parent": 9,
+        "relation": "ATT"
+      },
+      "9": {
+        "cont": "新年",
+        "parent": 10,
+        "relation": "ATT"
+      },
+      "10": {
+        "cont": "讲话",
+        "parent": 1,
+        "relation": "COO"
+      },
+      "11": {
+        "cont": "（",
+        "parent": 12,
+        "relation": "WP"
+      },
+      "12": {
+        "cont": "附",
+        "parent": 10,
+        "relation": "COO"
+      },
+      "13": {
+        "cont": "图片",
+        "parent": 15,
+        "relation": "ATT"
+      },
+      "14": {
+        "cont": "１",
+        "parent": 15,
+        "relation": "ATT"
+      },
+      "15": {
+        "cont": "张",
+        "parent": 12,
+        "relation": "VOB"
+      },
+      "16": {
+        "cont": "）",
+        "parent": 12,
+        "relation": "WP"
+      }
+    }
+  },
+  "1": {
+    "cont": "与上年同期相比，海上油田的年产能力增加了五十万吨。",
+    "word": {
+      "1": {
+        "cont": "与",
+        "parent": 4,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "上年",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "同期",
+        "parent": 1,
+        "relation": "POB"
+      },
+      "4": {
+        "cont": "相比",
+        "parent": 11,
+        "relation": "ADV"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 4,
+        "relation": "WP"
+      },
+      "6": {
+        "cont": "海上",
+        "parent": 7,
+        "relation": "ATT"
+      },
+      "7": {
+        "cont": "油田",
+        "parent": 10,
+        "relation": "ATT"
+      },
+      "8": {
+        "cont": "的",
+        "parent": 7,
+        "relation": "RAD"
+      },
+      "9": {
+        "cont": "年产",
+        "parent": 10,
+        "relation": "ATT"
+      },
+      "10": {
+        "cont": "能力",
+        "parent": 11,
+        "relation": "SBV"
+      },
+      "11": {
+        "cont": "增加",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "12": {
+        "cont": "了",
+        "parent": 11,
+        "relation": "RAD"
+      },
+      "13": {
+        "cont": "五十万",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "14": {
+        "cont": "吨",
+        "parent": 11,
+        "relation": "VOB"
+      },
+      "15": {
+        "cont": "。",
+        "parent": 11,
+        "relation": "WP"
+      }
+    }
+  },
+  "2": {
+    "cont": "像一支苦调歌谣",
+    "word": {
+      "1": {
+        "cont": "像",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "2": {
+        "cont": "一",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "支",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "苦调",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "歌谣",
+        "parent": 1,
+        "relation": "POB"
+      }
+    }
+  },
+  "3": {
+    "cont": "这两件大事，极大地鼓舞全党和全国各族人民更加紧密地团结起来，为把我国建成富强民主文明的社会主义现代化国家，完成祖国统一大业而奋斗。",
+    "word": {
+      "1": {
+        "cont": "这",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "2": {
+        "cont": "两",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "件",
+        "parent": 4,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "大事",
+        "parent": 8,
+        "relation": "SBV"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 4,
+        "relation": "WP"
+      },
+      "6": {
+        "cont": "极大",
+        "parent": 8,
+        "relation": "ADV"
+      },
+      "7": {
+        "cont": "地",
+        "parent": 6,
+        "relation": "RAD"
+      },
+      "8": {
+        "cont": "鼓舞",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "9": {
+        "cont": "全党",
+        "parent": 17,
+        "relation": "SBV"
+      },
+      "10": {
+        "cont": "和",
+        "parent": 13,
+        "relation": "LAD"
+      },
+      "11": {
+        "cont": "全国",
+        "parent": 13,
+        "relation": "ATT"
+      },
+      "12": {
+        "cont": "各族",
+        "parent": 13,
+        "relation": "ATT"
+      },
+      "13": {
+        "cont": "人民",
+        "parent": 9,
+        "relation": "COO"
+      },
+      "14": {
+        "cont": "更加",
+        "parent": 15,
+        "relation": "ADV"
+      },
+      "15": {
+        "cont": "紧密",
+        "parent": 17,
+        "relation": "ADV"
+      },
+      "16": {
+        "cont": "地",
+        "parent": 15,
+        "relation": "RAD"
+      },
+      "17": {
+        "cont": "团结",
+        "parent": 8,
+        "relation": "VOB"
+      },
+      "18": {
+        "cont": "起来",
+        "parent": 17,
+        "relation": "CMP"
+      },
+      "19": {
+        "cont": "，",
+        "parent": 17,
+        "relation": "WP"
+      },
+      "20": {
+        "cont": "为",
+        "parent": 32,
+        "relation": "ADV"
+      },
+      "21": {
+        "cont": "把",
+        "parent": 23,
+        "relation": "ADV"
+      },
+      "22": {
+        "cont": "我国",
+        "parent": 21,
+        "relation": "POB"
+      },
+      "23": {
+        "cont": "建成",
+        "parent": 20,
+        "relation": "POB"
+      },
+      "24": {
+        "cont": "富强",
+        "parent": 30,
+        "relation": "ATT"
+      },
+      "25": {
+        "cont": "民主",
+        "parent": 24,
+        "relation": "COO"
+      },
+      "26": {
+        "cont": "文明",
+        "parent": 25,
+        "relation": "COO"
+      },
+      "27": {
+        "cont": "的",
+        "parent": 24,
+        "relation": "RAD"
+      },
+      "28": {
+        "cont": "社会主义",
+        "parent": 30,
+        "relation": "ATT"
+      },
+      "29": {
+        "cont": "现代化",
+        "parent": 30,
+        "relation": "ATT"
+      },
+      "30": {
+        "cont": "国家",
+        "parent": 23,
+        "relation": "VOB"
+      },
+      "31": {
+        "cont": "，",
+        "parent": 20,
+        "relation": "WP"
+      },
+      "32": {
+        "cont": "完成",
+        "parent": 8,
+        "relation": "COO"
+      },
+      "33": {
+        "cont": "祖国",
+        "parent": 34,
+        "relation": "SBV"
+      },
+      "34": {
+        "cont": "统一",
+        "parent": 32,
+        "relation": "VOB"
+      },
+      "35": {
+        "cont": "大业",
+        "parent": 34,
+        "relation": "VOB"
+      },
+      "36": {
+        "cont": "而",
+        "parent": 37,
+        "relation": "ADV"
+      },
+      "37": {
+        "cont": "奋斗",
+        "parent": 34,
+        "relation": "COO"
+      },
+      "38": {
+        "cont": "。",
+        "parent": 8,
+        "relation": "WP"
+      }
+    }
+  },
+  "4": {
+    "cont": "这将对中华民族的繁荣振兴、对亚太地区与世界和平、对跨世纪两岸关系的发展和祖国和平统一事业的推进，产生积极而深刻的影响。",
+    "word": {
+      "1": {
+        "cont": "这",
+        "parent": 30,
+        "relation": "SBV"
+      },
+      "2": {
+        "cont": "将",
+        "parent": 30,
+        "relation": "ADV"
+      },
+      "3": {
+        "cont": "对",
+        "parent": 30,
+        "relation": "ADV"
+      },
+      "4": {
+        "cont": "中华民族",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "的",
+        "parent": 4,
+        "relation": "RAD"
+      },
+      "6": {
+        "cont": "繁荣",
+        "parent": 3,
+        "relation": "POB"
+      },
+      "7": {
+        "cont": "振兴",
+        "parent": 6,
+        "relation": "COO"
+      },
+      "8": {
+        "cont": "、",
+        "parent": 9,
+        "relation": "WP"
+      },
+      "9": {
+        "cont": "对",
+        "parent": 6,
+        "relation": "COO"
+      },
+      "10": {
+        "cont": "亚太地区",
+        "parent": 13,
+        "relation": "ATT"
+      },
+      "11": {
+        "cont": "与",
+        "parent": 12,
+        "relation": "LAD"
+      },
+      "12": {
+        "cont": "世界",
+        "parent": 10,
+        "relation": "COO"
+      },
+      "13": {
+        "cont": "和平",
+        "parent": 9,
+        "relation": "POB"
+      },
+      "14": {
+        "cont": "、",
+        "parent": 15,
+        "relation": "WP"
+      },
+      "15": {
+        "cont": "对",
+        "parent": 28,
+        "relation": "ADV"
+      },
+      "16": {
+        "cont": "跨",
+        "parent": 19,
+        "relation": "ATT"
+      },
+      "17": {
+        "cont": "世纪",
+        "parent": 16,
+        "relation": "VOB"
+      },
+      "18": {
+        "cont": "两岸",
+        "parent": 19,
+        "relation": "ATT"
+      },
+      "19": {
+        "cont": "关系",
+        "parent": 21,
+        "relation": "ATT"
+      },
+      "20": {
+        "cont": "的",
+        "parent": 19,
+        "relation": "RAD"
+      },
+      "21": {
+        "cont": "发展",
+        "parent": 15,
+        "relation": "POB"
+      },
+      "22": {
+        "cont": "和",
+        "parent": 25,
+        "relation": "LAD"
+      },
+      "23": {
+        "cont": "祖国",
+        "parent": 24,
+        "relation": "ATT"
+      },
+      "24": {
+        "cont": "和平",
+        "parent": 25,
+        "relation": "SBV"
+      },
+      "25": {
+        "cont": "统一",
+        "parent": 21,
+        "relation": "COO"
+      },
+      "26": {
+        "cont": "事业",
+        "parent": 25,
+        "relation": "VOB"
+      },
+      "27": {
+        "cont": "的",
+        "parent": 25,
+        "relation": "RAD"
+      },
+      "28": {
+        "cont": "推进",
+        "parent": 13,
+        "relation": "COO"
+      },
+      "29": {
+        "cont": "，",
+        "parent": 3,
+        "relation": "WP"
+      },
+      "30": {
+        "cont": "产生",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "31": {
+        "cont": "积极",
+        "parent": 35,
+        "relation": "ATT"
+      },
+      "32": {
+        "cont": "而",
+        "parent": 33,
+        "relation": "LAD"
+      },
+      "33": {
+        "cont": "深刻",
+        "parent": 31,
+        "relation": "COO"
+      },
+      "34": {
+        "cont": "的",
+        "parent": 31,
+        "relation": "RAD"
+      },
+      "35": {
+        "cont": "影响",
+        "parent": 30,
+        "relation": "VOB"
+      },
+      "36": {
+        "cont": "。",
+        "parent": 30,
+        "relation": "WP"
+      }
+    }
+  },
+  "5": {
+    "cont": "根据资源情况，各地建立和完善了一大批农副产品市场，以组织和引导农户进行生产。",
+    "word": {
+      "1": {
+        "cont": "根据",
+        "parent": 6,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "资源",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "情况",
+        "parent": 1,
+        "relation": "POB"
+      },
+      "4": {
+        "cont": "，",
+        "parent": 1,
+        "relation": "WP"
+      },
+      "5": {
+        "cont": "各地",
+        "parent": 6,
+        "relation": "SBV"
+      },
+      "6": {
+        "cont": "建立",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "7": {
+        "cont": "和",
+        "parent": 8,
+        "relation": "LAD"
+      },
+      "8": {
+        "cont": "完善",
+        "parent": 6,
+        "relation": "COO"
+      },
+      "9": {
+        "cont": "了",
+        "parent": 6,
+        "relation": "RAD"
+      },
+      "10": {
+        "cont": "一",
+        "parent": 12,
+        "relation": "ATT"
+      },
+      "11": {
+        "cont": "大",
+        "parent": 12,
+        "relation": "ATT"
+      },
+      "12": {
+        "cont": "批",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "13": {
+        "cont": "农副产品",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "14": {
+        "cont": "市场",
+        "parent": 6,
+        "relation": "VOB"
+      },
+      "15": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "WP"
+      },
+      "16": {
+        "cont": "以",
+        "parent": 21,
+        "relation": "ADV"
+      },
+      "17": {
+        "cont": "组织",
+        "parent": 20,
+        "relation": "ATT"
+      },
+      "18": {
+        "cont": "和",
+        "parent": 19,
+        "relation": "LAD"
+      },
+      "19": {
+        "cont": "引导",
+        "parent": 17,
+        "relation": "COO"
+      },
+      "20": {
+        "cont": "农户",
+        "parent": 16,
+        "relation": "POB"
+      },
+      "21": {
+        "cont": "进行",
+        "parent": 6,
+        "relation": "COO"
+      },
+      "22": {
+        "cont": "生产",
+        "parent": 21,
+        "relation": "VOB"
+      },
+      "23": {
+        "cont": "。",
+        "parent": 6,
+        "relation": "WP"
+      }
+    }
+  },
+  "6": {
+    "cont": "把臭水浜的改造同解决仓库、厂房和民宅的消防用水相结合；",
+    "word": {
+      "1": {
+        "cont": "把",
+        "parent": 5,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "臭",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "水浜",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "的",
+        "parent": 3,
+        "relation": "RAD"
+      },
+      "5": {
+        "cont": "改造",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "6": {
+        "cont": "同",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "7": {
+        "cont": "解决",
+        "parent": 5,
+        "relation": "COO"
+      },
+      "8": {
+        "cont": "仓库",
+        "parent": 15,
+        "relation": "ATT"
+      },
+      "9": {
+        "cont": "、",
+        "parent": 10,
+        "relation": "WP"
+      },
+      "10": {
+        "cont": "厂房",
+        "parent": 8,
+        "relation": "COO"
+      },
+      "11": {
+        "cont": "和",
+        "parent": 12,
+        "relation": "LAD"
+      },
+      "12": {
+        "cont": "民宅",
+        "parent": 8,
+        "relation": "COO"
+      },
+      "13": {
+        "cont": "的",
+        "parent": 8,
+        "relation": "RAD"
+      },
+      "14": {
+        "cont": "消防",
+        "parent": 15,
+        "relation": "SBV"
+      },
+      "15": {
+        "cont": "用",
+        "parent": 7,
+        "relation": "VOB"
+      },
+      "16": {
+        "cont": "水",
+        "parent": 15,
+        "relation": "VOB"
+      },
+      "17": {
+        "cont": "相",
+        "parent": 18,
+        "relation": "ADV"
+      },
+      "18": {
+        "cont": "结合",
+        "parent": 15,
+        "relation": "COO"
+      },
+      "19": {
+        "cont": "；",
+        "parent": 5,
+        "relation": "WP"
+      }
+    }
+  },
+  "7": {
+    "cont": "元旦是日本人民一年中最重要的节日之一。",
+    "word": {
+      "1": {
+        "cont": "元旦",
+        "parent": 2,
+        "relation": "SBV"
+      },
+      "2": {
+        "cont": "是",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "3": {
+        "cont": "日本",
+        "parent": 4,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "人民",
+        "parent": 7,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "一",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "6": {
+        "cont": "年",
+        "parent": 7,
+        "relation": "ATT"
+      },
+      "7": {
+        "cont": "中",
+        "parent": 11,
+        "relation": "ATT"
+      },
+      "8": {
+        "cont": "最",
+        "parent": 9,
+        "relation": "ADV"
+      },
+      "9": {
+        "cont": "重要",
+        "parent": 11,
+        "relation": "ATT"
+      },
+      "10": {
+        "cont": "的",
+        "parent": 9,
+        "relation": "RAD"
+      },
+      "11": {
+        "cont": "节日",
+        "parent": 12,
+        "relation": "ATT"
+      },
+      "12": {
+        "cont": "之一",
+        "parent": 2,
+        "relation": "VOB"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "WP"
+      }
+    }
+  },
+  "8": {
+    "cont": "据主人说，这里环境幽静，客房又便宜，能住六七个人的房间，一周才用３７００多挪威克朗（合人民币６５００多元），因而来往客人很多，好多会议都在这里开。",
+    "word": {
+      "1": {
+        "cont": "据",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "主人",
+        "parent": 3,
+        "relation": "SBV"
+      },
+      "3": {
+        "cont": "说",
+        "parent": 1,
+        "relation": "POB"
+      },
+      "4": {
+        "cont": "，",
+        "parent": 1,
+        "relation": "WP"
+      },
+      "5": {
+        "cont": "这里",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "6": {
+        "cont": "环境",
+        "parent": 7,
+        "relation": "SBV"
+      },
+      "7": {
+        "cont": "幽静",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "8": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "WP"
+      },
+      "9": {
+        "cont": "客房",
+        "parent": 11,
+        "relation": "SBV"
+      },
+      "10": {
+        "cont": "又",
+        "parent": 11,
+        "relation": "ADV"
+      },
+      "11": {
+        "cont": "便宜",
+        "parent": 7,
+        "relation": "COO"
+      },
+      "12": {
+        "cont": "，",
+        "parent": 11,
+        "relation": "WP"
+      },
+      "13": {
+        "cont": "能",
+        "parent": 14,
+        "relation": "ADV"
+      },
+      "14": {
+        "cont": "住",
+        "parent": 11,
+        "relation": "COO"
+      },
+      "15": {
+        "cont": "六七",
+        "parent": 16,
+        "relation": "ATT"
+      },
+      "16": {
+        "cont": "个",
+        "parent": 17,
+        "relation": "ATT"
+      },
+      "17": {
+        "cont": "人",
+        "parent": 19,
+        "relation": "ATT"
+      },
+      "18": {
+        "cont": "的",
+        "parent": 17,
+        "relation": "RAD"
+      },
+      "19": {
+        "cont": "房间",
+        "parent": 14,
+        "relation": "VOB"
+      },
+      "20": {
+        "cont": "，",
+        "parent": 11,
+        "relation": "WP"
+      },
+      "21": {
+        "cont": "一",
+        "parent": 22,
+        "relation": "ATT"
+      },
+      "22": {
+        "cont": "周",
+        "parent": 24,
+        "relation": "ADV"
+      },
+      "23": {
+        "cont": "才",
+        "parent": 24,
+        "relation": "ADV"
+      },
+      "24": {
+        "cont": "用",
+        "parent": 11,
+        "relation": "COO"
+      },
+      "25": {
+        "cont": "３７００",
+        "parent": 28,
+        "relation": "ATT"
+      },
+      "26": {
+        "cont": "多",
+        "parent": 25,
+        "relation": "RAD"
+      },
+      "27": {
+        "cont": "挪威",
+        "parent": 28,
+        "relation": "ATT"
+      },
+      "28": {
+        "cont": "克朗",
+        "parent": 24,
+        "relation": "VOB"
+      },
+      "29": {
+        "cont": "（",
+        "parent": 30,
+        "relation": "WP"
+      },
+      "30": {
+        "cont": "合",
+        "parent": 28,
+        "relation": "COO"
+      },
+      "31": {
+        "cont": "人民币",
+        "parent": 30,
+        "relation": "VOB"
+      },
+      "32": {
+        "cont": "６５００",
+        "parent": 34,
+        "relation": "ATT"
+      },
+      "33": {
+        "cont": "多",
+        "parent": 32,
+        "relation": "RAD"
+      },
+      "34": {
+        "cont": "元",
+        "parent": 30,
+        "relation": "VOB"
+      },
+      "35": {
+        "cont": "）",
+        "parent": 30,
+        "relation": "WP"
+      },
+      "36": {
+        "cont": "，",
+        "parent": 24,
+        "relation": "WP"
+      },
+      "37": {
+        "cont": "因而",
+        "parent": 41,
+        "relation": "ADV"
+      },
+      "38": {
+        "cont": "来往",
+        "parent": 39,
+        "relation": "ATT"
+      },
+      "39": {
+        "cont": "客人",
+        "parent": 41,
+        "relation": "SBV"
+      },
+      "40": {
+        "cont": "很",
+        "parent": 41,
+        "relation": "ADV"
+      },
+      "41": {
+        "cont": "多",
+        "parent": 24,
+        "relation": "COO"
+      },
+      "42": {
+        "cont": "，",
+        "parent": 41,
+        "relation": "WP"
+      },
+      "43": {
+        "cont": "好多",
+        "parent": 44,
+        "relation": "ATT"
+      },
+      "44": {
+        "cont": "会议",
+        "parent": 48,
+        "relation": "SBV"
+      },
+      "45": {
+        "cont": "都",
+        "parent": 48,
+        "relation": "ADV"
+      },
+      "46": {
+        "cont": "在",
+        "parent": 48,
+        "relation": "ADV"
+      },
+      "47": {
+        "cont": "这里",
+        "parent": 46,
+        "relation": "POB"
+      },
+      "48": {
+        "cont": "开",
+        "parent": 41,
+        "relation": "COO"
+      },
+      "49": {
+        "cont": "。",
+        "parent": 7,
+        "relation": "WP"
+      }
+    }
+  },
+  "9": {
+    "cont": "连日来，省市主要领导纷纷下到困难企业慰问职工。",
+    "word": {
+      "1": {
+        "cont": "连日来",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "，",
+        "parent": 1,
+        "relation": "WP"
+      },
+      "3": {
+        "cont": "省市",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "主要",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "领导",
+        "parent": 7,
+        "relation": "SBV"
+      },
+      "6": {
+        "cont": "纷纷",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "7": {
+        "cont": "下",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "8": {
+        "cont": "到",
+        "parent": 7,
+        "relation": "CMP"
+      },
+      "9": {
+        "cont": "困难",
+        "parent": 10,
+        "relation": "ATT"
+      },
+      "10": {
+        "cont": "企业",
+        "parent": 7,
+        "relation": "VOB"
+      },
+      "11": {
+        "cont": "慰问",
+        "parent": 7,
+        "relation": "COO"
+      },
+      "12": {
+        "cont": "职工",
+        "parent": 11,
+        "relation": "VOB"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 7,
+        "relation": "WP"
+      }
+    }
+  },
+  "10": {
+    "cont": "这座清真寺直到上个世纪一直是前往麦加朝圣的出发地。",
+    "word": {
+      "1": {
+        "cont": "这",
+        "parent": 2,
+        "relation": "ATT"
+      },
+      "2": {
+        "cont": "座",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "清真寺",
+        "parent": 9,
+        "relation": "SBV"
+      },
+      "4": {
+        "cont": "直到",
+        "parent": 9,
+        "relation": "ADV"
+      },
+      "5": {
+        "cont": "上",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "6": {
+        "cont": "个",
+        "parent": 7,
+        "relation": "ATT"
+      },
+      "7": {
+        "cont": "世纪",
+        "parent": 4,
+        "relation": "POB"
+      },
+      "8": {
+        "cont": "一直",
+        "parent": 9,
+        "relation": "ADV"
+      },
+      "9": {
+        "cont": "是",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "10": {
+        "cont": "前往",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "11": {
+        "cont": "麦加",
+        "parent": 10,
+        "relation": "VOB"
+      },
+      "12": {
+        "cont": "朝圣",
+        "parent": 10,
+        "relation": "COO"
+      },
+      "13": {
+        "cont": "的",
+        "parent": 10,
+        "relation": "RAD"
+      },
+      "14": {
+        "cont": "出发地",
+        "parent": 9,
+        "relation": "VOB"
+      },
+      "15": {
+        "cont": "。",
+        "parent": 9,
+        "relation": "WP"
+      }
+    }
+  },
+  "11": {
+    "cont": "我们在调研过程中了解到，目前我国企业集团的发展总体上是比较顺利的，但存在一些值得注意的问题。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 6,
+        "relation": "SBV"
+      },
+      "2": {
+        "cont": "在",
+        "parent": 6,
+        "relation": "ADV"
+      },
+      "3": {
+        "cont": "调研",
+        "parent": 4,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "过程",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "中",
+        "parent": 2,
+        "relation": "POB"
+      },
+      "6": {
+        "cont": "了解",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "7": {
+        "cont": "到",
+        "parent": 6,
+        "relation": "CMP"
+      },
+      "8": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "WP"
+      },
+      "9": {
+        "cont": "目前",
+        "parent": 17,
+        "relation": "ADV"
+      },
+      "10": {
+        "cont": "我国",
+        "parent": 12,
+        "relation": "ATT"
+      },
+      "11": {
+        "cont": "企业",
+        "parent": 12,
+        "relation": "ATT"
+      },
+      "12": {
+        "cont": "集团",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "13": {
+        "cont": "的",
+        "parent": 12,
+        "relation": "RAD"
+      },
+      "14": {
+        "cont": "发展",
+        "parent": 16,
+        "relation": "ATT"
+      },
+      "15": {
+        "cont": "总体",
+        "parent": 16,
+        "relation": "ATT"
+      },
+      "16": {
+        "cont": "上",
+        "parent": 17,
+        "relation": "ADV"
+      },
+      "17": {
+        "cont": "是",
+        "parent": 6,
+        "relation": "VOB"
+      },
+      "18": {
+        "cont": "比较",
+        "parent": 19,
+        "relation": "ADV"
+      },
+      "19": {
+        "cont": "顺利",
+        "parent": 17,
+        "relation": "VOB"
+      },
+      "20": {
+        "cont": "的",
+        "parent": 19,
+        "relation": "RAD"
+      },
+      "21": {
+        "cont": "，",
+        "parent": 17,
+        "relation": "WP"
+      },
+      "22": {
+        "cont": "但",
+        "parent": 23,
+        "relation": "ADV"
+      },
+      "23": {
+        "cont": "存在",
+        "parent": 17,
+        "relation": "COO"
+      },
+      "24": {
+        "cont": "一些",
+        "parent": 28,
+        "relation": "ATT"
+      },
+      "25": {
+        "cont": "值得",
+        "parent": 28,
+        "relation": "ATT"
+      },
+      "26": {
+        "cont": "注意",
+        "parent": 25,
+        "relation": "VOB"
+      },
+      "27": {
+        "cont": "的",
+        "parent": 25,
+        "relation": "RAD"
+      },
+      "28": {
+        "cont": "问题",
+        "parent": 23,
+        "relation": "VOB"
+      },
+      "29": {
+        "cont": "。",
+        "parent": 6,
+        "relation": "WP"
+      }
+    }
+  },
+  "12": {
+    "cont": "这项工程建成后将大大削减郑州市的污染负荷。",
+    "word": {
+      "1": {
+        "cont": "这项",
+        "parent": 2,
+        "relation": "ATT"
+      },
+      "2": {
+        "cont": "工程",
+        "parent": 3,
+        "relation": "SBV"
+      },
+      "3": {
+        "cont": "建成",
+        "parent": 4,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "后",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "5": {
+        "cont": "将",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "6": {
+        "cont": "大大",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "7": {
+        "cont": "削减",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "8": {
+        "cont": "郑州市",
+        "parent": 11,
+        "relation": "ATT"
+      },
+      "9": {
+        "cont": "的",
+        "parent": 8,
+        "relation": "RAD"
+      },
+      "10": {
+        "cont": "污染",
+        "parent": 11,
+        "relation": "ATT"
+      },
+      "11": {
+        "cont": "负荷",
+        "parent": 7,
+        "relation": "VOB"
+      },
+      "12": {
+        "cont": "。",
+        "parent": 7,
+        "relation": "WP"
+      }
+    }
+  },
+  "13": {
+    "cont": "总的说，我们的绝大多数干部能够正确对待个人的进退留转问题。",
+    "word": {
+      "1": {
+        "cont": "总",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "2": {
+        "cont": "的",
+        "parent": 1,
+        "relation": "RAD"
+      },
+      "3": {
+        "cont": "说",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "4": {
+        "cont": "，",
+        "parent": 3,
+        "relation": "WP"
+      },
+      "5": {
+        "cont": "我们",
+        "parent": 8,
+        "relation": "ATT"
+      },
+      "6": {
+        "cont": "的",
+        "parent": 5,
+        "relation": "RAD"
+      },
+      "7": {
+        "cont": "绝大多数",
+        "parent": 8,
+        "relation": "ATT"
+      },
+      "8": {
+        "cont": "干部",
+        "parent": 11,
+        "relation": "SBV"
+      },
+      "9": {
+        "cont": "能够",
+        "parent": 11,
+        "relation": "ADV"
+      },
+      "10": {
+        "cont": "正确",
+        "parent": 11,
+        "relation": "ADV"
+      },
+      "11": {
+        "cont": "对待",
+        "parent": 3,
+        "relation": "VOB"
+      },
+      "12": {
+        "cont": "个人",
+        "parent": 11,
+        "relation": "VOB"
+      },
+      "13": {
+        "cont": "的",
+        "parent": 11,
+        "relation": "RAD"
+      },
+      "14": {
+        "cont": "进退",
+        "parent": 17,
+        "relation": "ATT"
+      },
+      "15": {
+        "cont": "留",
+        "parent": 14,
+        "relation": "COO"
+      },
+      "16": {
+        "cont": "转",
+        "parent": 15,
+        "relation": "COO"
+      },
+      "17": {
+        "cont": "问题",
+        "parent": 11,
+        "relation": "VOB"
+      },
+      "18": {
+        "cont": "。",
+        "parent": 3,
+        "relation": "WP"
+      }
+    }
+  },
+  "14": {
+    "cont": "本报讯我国首张采用多媒体技术制作的《中国医药企业名典》光盘，近日驶上国际信息高速公路。",
+    "word": {
+      "1": {
+        "cont": "本报",
+        "parent": 2,
+        "relation": "SBV"
+      },
+      "2": {
+        "cont": "讯",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "3": {
+        "cont": "我国",
+        "parent": 6,
+        "relation": "SBV"
+      },
+      "4": {
+        "cont": "首",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "张",
+        "parent": 6,
+        "relation": "SBV"
+      },
+      "6": {
+        "cont": "采用",
+        "parent": 2,
+        "relation": "VOB"
+      },
+      "7": {
+        "cont": "多媒体",
+        "parent": 8,
+        "relation": "ATT"
+      },
+      "8": {
+        "cont": "技术",
+        "parent": 9,
+        "relation": "SBV"
+      },
+      "9": {
+        "cont": "制作",
+        "parent": 17,
+        "relation": "ATT"
+      },
+      "10": {
+        "cont": "的",
+        "parent": 9,
+        "relation": "RAD"
+      },
+      "11": {
+        "cont": "《",
+        "parent": 15,
+        "relation": "WP"
+      },
+      "12": {
+        "cont": "中国",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "13": {
+        "cont": "医药",
+        "parent": 14,
+        "relation": "ATT"
+      },
+      "14": {
+        "cont": "企业",
+        "parent": 15,
+        "relation": "ATT"
+      },
+      "15": {
+        "cont": "名典",
+        "parent": 17,
+        "relation": "ATT"
+      },
+      "16": {
+        "cont": "》",
+        "parent": 15,
+        "relation": "WP"
+      },
+      "17": {
+        "cont": "光盘",
+        "parent": 6,
+        "relation": "VOB"
+      },
+      "18": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "WP"
+      },
+      "19": {
+        "cont": "近日",
+        "parent": 20,
+        "relation": "ADV"
+      },
+      "20": {
+        "cont": "驶",
+        "parent": 6,
+        "relation": "COO"
+      },
+      "21": {
+        "cont": "上",
+        "parent": 24,
+        "relation": "ATT"
+      },
+      "22": {
+        "cont": "国际",
+        "parent": 23,
+        "relation": "ATT"
+      },
+      "23": {
+        "cont": "信息",
+        "parent": 24,
+        "relation": "ATT"
+      },
+      "24": {
+        "cont": "高速公路",
+        "parent": 20,
+        "relation": "VOB"
+      },
+      "25": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "WP"
+      }
+    }
+  },
+  "15": {
+    "cont": "德国共花１·６亿马克购买的迎新烟花绝大部分从中国进口。",
+    "word": {
+      "1": {
+        "cont": "德国",
+        "parent": 3,
+        "relation": "SBV"
+      },
+      "2": {
+        "cont": "共",
+        "parent": 3,
+        "relation": "ADV"
+      },
+      "3": {
+        "cont": "花",
+        "parent": 9,
+        "relation": "ATT"
+      },
+      "4": {
+        "cont": "１·６亿",
+        "parent": 5,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "马克",
+        "parent": 3,
+        "relation": "VOB"
+      },
+      "6": {
+        "cont": "购买",
+        "parent": 3,
+        "relation": "COO"
+      },
+      "7": {
+        "cont": "的",
+        "parent": 6,
+        "relation": "RAD"
+      },
+      "8": {
+        "cont": "迎新",
+        "parent": 9,
+        "relation": "ATT"
+      },
+      "9": {
+        "cont": "烟花",
+        "parent": 13,
+        "relation": "SBV"
+      },
+      "10": {
+        "cont": "绝大部分",
+        "parent": 13,
+        "relation": "ADV"
+      },
+      "11": {
+        "cont": "从",
+        "parent": 13,
+        "relation": "ADV"
+      },
+      "12": {
+        "cont": "中国",
+        "parent": 11,
+        "relation": "POB"
+      },
+      "13": {
+        "cont": "进口",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 13,
+        "relation": "WP"
+      }
+    }
+  },
+  "16": {
+    "cont": "５月１５日，北京海关调查局根据举报线索，费尽周折陆续找到了１０５辆海马轿车。",
+    "word": {
+      "1": {
+        "cont": "５月",
+        "parent": 2,
+        "relation": "ATT"
+      },
+      "2": {
+        "cont": "１５日",
+        "parent": 7,
+        "relation": "ADV"
+      },
+      "3": {
+        "cont": "，",
+        "parent": 2,
+        "relation": "WP"
+      },
+      "4": {
+        "cont": "北京",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "海关",
+        "parent": 6,
+        "relation": "ATT"
+      },
+      "6": {
+        "cont": "调查局",
+        "parent": 7,
+        "relation": "SBV"
+      },
+      "7": {
+        "cont": "根据",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "8": {
+        "cont": "举报",
+        "parent": 9,
+        "relation": "ATT"
+      },
+      "9": {
+        "cont": "线索",
+        "parent": 7,
+        "relation": "VOB"
+      },
+      "10": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "WP"
+      },
+      "11": {
+        "cont": "费尽周折",
+        "parent": 13,
+        "relation": "ADV"
+      },
+      "12": {
+        "cont": "陆续",
+        "parent": 13,
+        "relation": "ADV"
+      },
+      "13": {
+        "cont": "找到",
+        "parent": 7,
+        "relation": "COO"
+      },
+      "14": {
+        "cont": "了",
+        "parent": 13,
+        "relation": "RAD"
+      },
+      "15": {
+        "cont": "１０５",
+        "parent": 16,
+        "relation": "ATT"
+      },
+      "16": {
+        "cont": "辆",
+        "parent": 18,
+        "relation": "ATT"
+      },
+      "17": {
+        "cont": "海马",
+        "parent": 18,
+        "relation": "ATT"
+      },
+      "18": {
+        "cont": "轿车",
+        "parent": 13,
+        "relation": "VOB"
+      },
+      "19": {
+        "cont": "。",
+        "parent": 7,
+        "relation": "WP"
+      }
+    }
+  },
+  "17": {
+    "cont": "我们认为，对伊拉克的制裁不能长期进行下去。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 2,
+        "relation": "SBV"
+      },
+      "2": {
+        "cont": "认为",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "3": {
+        "cont": "，",
+        "parent": 2,
+        "relation": "WP"
+      },
+      "4": {
+        "cont": "对",
+        "parent": 7,
+        "relation": "ATT"
+      },
+      "5": {
+        "cont": "伊拉克",
+        "parent": 4,
+        "relation": "POB"
+      },
+      "6": {
+        "cont": "的",
+        "parent": 4,
+        "relation": "RAD"
+      },
+      "7": {
+        "cont": "制裁",
+        "parent": 10,
+        "relation": "SBV"
+      },
+      "8": {
+        "cont": "不能",
+        "parent": 10,
+        "relation": "ADV"
+      },
+      "9": {
+        "cont": "长期",
+        "parent": 10,
+        "relation": "ADV"
+      },
+      "10": {
+        "cont": "进行",
+        "parent": 2,
+        "relation": "VOB"
+      },
+      "11": {
+        "cont": "下去",
+        "parent": 10,
+        "relation": "CMP"
+      },
+      "12": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "WP"
+      }
+    }
+  },
+  "18": {
+    "cont": "现实生活中，只有职业的不同，没有人的贵贱。",
+    "word": {
+      "1": {
+        "cont": "现实",
+        "parent": 2,
+        "relation": "ATT"
+      },
+      "2": {
+        "cont": "生活",
+        "parent": 3,
+        "relation": "ATT"
+      },
+      "3": {
+        "cont": "中",
+        "parent": 5,
+        "relation": "ADV"
+      },
+      "4": {
+        "cont": "，",
+        "parent": 3,
+        "relation": "WP"
+      },
+      "5": {
+        "cont": "只有",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "6": {
+        "cont": "职业",
+        "parent": 8,
+        "relation": "ATT"
+      },
+      "7": {
+        "cont": "的",
+        "parent": 6,
+        "relation": "RAD"
+      },
+      "8": {
+        "cont": "不同",
+        "parent": 5,
+        "relation": "VOB"
+      },
+      "9": {
+        "cont": "，",
+        "parent": 5,
+        "relation": "WP"
+      },
+      "10": {
+        "cont": "没有",
+        "parent": 5,
+        "relation": "COO"
+      },
+      "11": {
+        "cont": "人",
+        "parent": 13,
+        "relation": "ATT"
+      },
+      "12": {
+        "cont": "的",
+        "parent": 11,
+        "relation": "RAD"
+      },
+      "13": {
+        "cont": "贵贱",
+        "parent": 10,
+        "relation": "VOB"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 5,
+        "relation": "WP"
+      }
+    }
+  },
+  "19": {
+    "cont": "从跨出校门那天，你就向往着踏上南极。",
+    "word": {
+      "1": {
+        "cont": "从",
+        "parent": 9,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "跨",
+        "parent": 1,
+        "relation": "POB"
+      },
+      "3": {
+        "cont": "出",
+        "parent": 2,
+        "relation": "CMP"
+      },
+      "4": {
+        "cont": "校门",
+        "parent": 3,
+        "relation": "VOB"
+      },
+      "5": {
+        "cont": "那天",
+        "parent": 2,
+        "relation": "VOB"
+      },
+      "6": {
+        "cont": "，",
+        "parent": 1,
+        "relation": "WP"
+      },
+      "7": {
+        "cont": "你",
+        "parent": 9,
+        "relation": "SBV"
+      },
+      "8": {
+        "cont": "就",
+        "parent": 9,
+        "relation": "ADV"
+      },
+      "9": {
+        "cont": "向往",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "10": {
+        "cont": "着",
+        "parent": 9,
+        "relation": "RAD"
+      },
+      "11": {
+        "cont": "踏",
+        "parent": 9,
+        "relation": "COO"
+      },
+      "12": {
+        "cont": "上",
+        "parent": 11,
+        "relation": "CMP"
+      },
+      "13": {
+        "cont": "南极",
+        "parent": 12,
+        "relation": "VOB"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 9,
+        "relation": "WP"
+      }
+    }
+  },
+  "20": {
+    "cont": "另一方面，雅古布也向总理内塔尼亚胡摊牌，坚持紧缩开支，反对降低税收，以尽量减少政府的财政赤字，声称只要内塔尼亚胡屈从利维的意见，他也将辞职。",
+    "word": {
+      "1": {
+        "cont": "另一方面",
+        "parent": 8,
+        "relation": "ADV"
+      },
+      "2": {
+        "cont": "，",
+        "parent": 1,
+        "relation": "WP"
+      },
+      "3": {
+        "cont": "雅古布",
+        "parent": 8,
+        "relation": "SBV"
+      },
+      "4": {
+        "cont": "也",
+        "parent": 8,
+        "relation": "ADV"
+      },
+      "5": {
+        "cont": "向",
+        "parent": 8,
+        "relation": "ADV"
+      },
+      "6": {
+        "cont": "总理",
+        "parent": 7,
+        "relation": "ATT"
+      },
+      "7": {
+        "cont": "内塔尼亚胡",
+        "parent": 5,
+        "relation": "POB"
+      },
+      "8": {
+        "cont": "摊牌",
+        "parent": 0,
+        "relation": "HED"
+      },
+      "9": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "WP"
+      },
+      "10": {
+        "cont": "坚持",
+        "parent": 8,
+        "relation": "COO"
+      },
+      "11": {
+        "cont": "紧缩",
+        "parent": 10,
+        "relation": "VOB"
+      },
+      "12": {
+        "cont": "开支",
+        "parent": 11,
+        "relation": "VOB"
+      },
+      "13": {
+        "cont": "，",
+        "parent": 10,
+        "relation": "WP"
+      },
+      "14": {
+        "cont": "反对",
+        "parent": 10,
+        "relation": "COO"
+      },
+      "15": {
+        "cont": "降低",
+        "parent": 14,
+        "relation": "VOB"
+      },
+      "16": {
+        "cont": "税收",
+        "parent": 15,
+        "relation": "VOB"
+      },
+      "17": {
+        "cont": "，",
+        "parent": 14,
+        "relation": "WP"
+      },
+      "18": {
+        "cont": "以",
+        "parent": 20,
+        "relation": "ADV"
+      },
+      "19": {
+        "cont": "尽量",
+        "parent": 20,
+        "relation": "ADV"
+      },
+      "20": {
+        "cont": "减少",
+        "parent": 10,
+        "relation": "COO"
+      },
+      "21": {
+        "cont": "政府",
+        "parent": 24,
+        "relation": "ATT"
+      },
+      "22": {
+        "cont": "的",
+        "parent": 21,
+        "relation": "RAD"
+      },
+      "23": {
+        "cont": "财政",
+        "parent": 24,
+        "relation": "ATT"
+      },
+      "24": {
+        "cont": "赤字",
+        "parent": 20,
+        "relation": "VOB"
+      },
+      "25": {
+        "cont": "，",
+        "parent": 20,
+        "relation": "WP"
+      },
+      "26": {
+        "cont": "声称",
+        "parent": 10,
+        "relation": "COO"
+      },
+      "27": {
+        "cont": "只要",
+        "parent": 29,
+        "relation": "ADV"
+      },
+      "28": {
+        "cont": "内塔尼亚胡",
+        "parent": 29,
+        "relation": "SBV"
+      },
+      "29": {
+        "cont": "屈从",
+        "parent": 26,
+        "relation": "VOB"
+      },
+      "30": {
+        "cont": "利维",
+        "parent": 32,
+        "relation": "ATT"
+      },
+      "31": {
+        "cont": "的",
+        "parent": 30,
+        "relation": "RAD"
+      },
+      "32": {
+        "cont": "意见",
+        "parent": 29,
+        "relation": "VOB"
+      },
+      "33": {
+        "cont": "，",
+        "parent": 29,
+        "relation": "WP"
+      },
+      "34": {
+        "cont": "他",
+        "parent": 37,
+        "relation": "SBV"
+      },
+      "35": {
+        "cont": "也",
+        "parent": 37,
+        "relation": "ADV"
+      },
+      "36": {
+        "cont": "将",
+        "parent": 37,
+        "relation": "ADV"
+      },
+      "37": {
+        "cont": "辞职",
+        "parent": 29,
+        "relation": "COO"
+      },
+      "38": {
+        "cont": "。",
+        "parent": 8,
+        "relation": "WP"
+      }
+    }
+  }
+}

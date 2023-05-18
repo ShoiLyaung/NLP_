@@ -1,0 +1,2507 @@
+{
+  "0": {
+    "cont": "我喜欢看电影，尤其是科幻电影。",
+    "word": {
+      "1": {
+        "cont": "我",
+        "parent": 2,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "喜欢",
+        "parent": 0,
+        "relation": "root"
+      },
+      "3": {
+        "cont": "看",
+        "parent": 2,
+        "relation": "ccomp"
+      },
+      "4": {
+        "cont": "电影",
+        "parent": 3,
+        "relation": "dobj"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "punct"
+      },
+      "6": {
+        "cont": "尤其是",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "7": {
+        "cont": "科幻",
+        "parent": 8,
+        "relation": "amod"
+      },
+      "8": {
+        "cont": "电影",
+        "parent": 3,
+        "relation": "dep"
+      },
+      "9": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "punct"
+      }
+    }
+  },
+  "1": {
+    "cont": "她买了一本新书，但还没有开始看。",
+    "word": {
+      "1": {
+        "cont": "她",
+        "parent": 2,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "买",
+        "parent": 0,
+        "relation": "root"
+      },
+      "3": {
+        "cont": "了",
+        "parent": 2,
+        "relation": "asp"
+      },
+      "4": {
+        "cont": "一",
+        "parent": 5,
+        "relation": "nummod"
+      },
+      "5": {
+        "cont": "本",
+        "parent": 7,
+        "relation": "clf"
+      },
+      "6": {
+        "cont": "新",
+        "parent": 7,
+        "relation": "amod"
+      },
+      "7": {
+        "cont": "书",
+        "parent": 2,
+        "relation": "dobj"
+      },
+      "8": {
+        "cont": "，",
+        "parent": 2,
+        "relation": "punct"
+      },
+      "9": {
+        "cont": "但",
+        "parent": 2,
+        "relation": "cc"
+      },
+      "10": {
+        "cont": "还",
+        "parent": 13,
+        "relation": "advmod"
+      },
+      "11": {
+        "cont": "没有",
+        "parent": 13,
+        "relation": "neg"
+      },
+      "12": {
+        "cont": "开始",
+        "parent": 13,
+        "relation": "mmod"
+      },
+      "13": {
+        "cont": "看",
+        "parent": 2,
+        "relation": "conj"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "punct"
+      }
+    }
+  },
+  "2": {
+    "cont": "他们昨天去了北京，参观了故宫和长城。",
+    "word": {
+      "1": {
+        "cont": "他们",
+        "parent": 3,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "昨天",
+        "parent": 3,
+        "relation": "tmod"
+      },
+      "3": {
+        "cont": "去",
+        "parent": 0,
+        "relation": "root"
+      },
+      "4": {
+        "cont": "了",
+        "parent": 3,
+        "relation": "asp"
+      },
+      "5": {
+        "cont": "北京",
+        "parent": 3,
+        "relation": "dobj"
+      },
+      "6": {
+        "cont": "，",
+        "parent": 3,
+        "relation": "punct"
+      },
+      "7": {
+        "cont": "参观",
+        "parent": 3,
+        "relation": "conj"
+      },
+      "8": {
+        "cont": "了",
+        "parent": 7,
+        "relation": "asp"
+      },
+      "9": {
+        "cont": "故宫",
+        "parent": 11,
+        "relation": "conj"
+      },
+      "10": {
+        "cont": "和",
+        "parent": 11,
+        "relation": "cc"
+      },
+      "11": {
+        "cont": "长城",
+        "parent": 7,
+        "relation": "dobj"
+      },
+      "12": {
+        "cont": "。",
+        "parent": 3,
+        "relation": "punct"
+      }
+    }
+  },
+  "3": {
+    "cont": "这个问题很难，我需要更多的时间来思考。",
+    "word": {
+      "1": {
+        "cont": "这个",
+        "parent": 2,
+        "relation": "det"
+      },
+      "2": {
+        "cont": "问题",
+        "parent": 4,
+        "relation": "nsubj"
+      },
+      "3": {
+        "cont": "很",
+        "parent": 4,
+        "relation": "advmod"
+      },
+      "4": {
+        "cont": "难",
+        "parent": 0,
+        "relation": "root"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 4,
+        "relation": "punct"
+      },
+      "6": {
+        "cont": "我",
+        "parent": 7,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "需要",
+        "parent": 4,
+        "relation": "conj"
+      },
+      "8": {
+        "cont": "更",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "9": {
+        "cont": "多",
+        "parent": 11,
+        "relation": "assmod"
+      },
+      "10": {
+        "cont": "的",
+        "parent": 9,
+        "relation": "assm"
+      },
+      "11": {
+        "cont": "时间",
+        "parent": 7,
+        "relation": "dobj"
+      },
+      "12": {
+        "cont": "来",
+        "parent": 13,
+        "relation": "prtmod"
+      },
+      "13": {
+        "cont": "思考",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 4,
+        "relation": "punct"
+      }
+    }
+  },
+  "4": {
+    "cont": "你喜欢吃什么样的食物？",
+    "word": {
+      "1": {
+        "cont": "你",
+        "parent": 2,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "喜欢",
+        "parent": 0,
+        "relation": "root"
+      },
+      "3": {
+        "cont": "吃",
+        "parent": 2,
+        "relation": "ccomp"
+      },
+      "4": {
+        "cont": "什么",
+        "parent": 7,
+        "relation": "assmod"
+      },
+      "5": {
+        "cont": "样",
+        "parent": 7,
+        "relation": "assmod"
+      },
+      "6": {
+        "cont": "的",
+        "parent": 5,
+        "relation": "assm"
+      },
+      "7": {
+        "cont": "食物",
+        "parent": 3,
+        "relation": "dobj"
+      },
+      "8": {
+        "cont": "？",
+        "parent": 2,
+        "relation": "punct"
+      }
+    }
+  },
+  "5": {
+    "cont": "父母总是希望自己的孩子能够好好学习。",
+    "word": {
+      "1": {
+        "cont": "父母",
+        "parent": 3,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "总是",
+        "parent": 3,
+        "relation": "advmod"
+      },
+      "3": {
+        "cont": "希望",
+        "parent": 0,
+        "relation": "root"
+      },
+      "4": {
+        "cont": "自己",
+        "parent": 6,
+        "relation": "assmod"
+      },
+      "5": {
+        "cont": "的",
+        "parent": 4,
+        "relation": "assm"
+      },
+      "6": {
+        "cont": "孩子",
+        "parent": 9,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "能够",
+        "parent": 9,
+        "relation": "mmod"
+      },
+      "8": {
+        "cont": "好好",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "9": {
+        "cont": "学习",
+        "parent": 3,
+        "relation": "ccomp"
+      },
+      "10": {
+        "cont": "。",
+        "parent": 3,
+        "relation": "punct"
+      }
+    }
+  },
+  "6": {
+    "cont": "我们的公司正在开发一个新产品，预计明年上市。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 3,
+        "relation": "assmod"
+      },
+      "2": {
+        "cont": "的",
+        "parent": 1,
+        "relation": "assm"
+      },
+      "3": {
+        "cont": "公司",
+        "parent": 5,
+        "relation": "nsubj"
+      },
+      "4": {
+        "cont": "正在",
+        "parent": 5,
+        "relation": "advmod"
+      },
+      "5": {
+        "cont": "开发",
+        "parent": 0,
+        "relation": "root"
+      },
+      "6": {
+        "cont": "一个",
+        "parent": 8,
+        "relation": "nummod"
+      },
+      "7": {
+        "cont": "新",
+        "parent": 8,
+        "relation": "amod"
+      },
+      "8": {
+        "cont": "产品",
+        "parent": 5,
+        "relation": "dobj"
+      },
+      "9": {
+        "cont": "，",
+        "parent": 5,
+        "relation": "punct"
+      },
+      "10": {
+        "cont": "预计",
+        "parent": 5,
+        "relation": "conj"
+      },
+      "11": {
+        "cont": "明年",
+        "parent": 12,
+        "relation": "tmod"
+      },
+      "12": {
+        "cont": "上市",
+        "parent": 10,
+        "relation": "ccomp"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 5,
+        "relation": "punct"
+      }
+    }
+  },
+  "7": {
+    "cont": "这张照片太模糊了，你能再拍一张清晰的吗？",
+    "word": {
+      "1": {
+        "cont": "这",
+        "parent": 3,
+        "relation": "det"
+      },
+      "2": {
+        "cont": "张",
+        "parent": 1,
+        "relation": "clf"
+      },
+      "3": {
+        "cont": "照片",
+        "parent": 5,
+        "relation": "nsubj"
+      },
+      "4": {
+        "cont": "太",
+        "parent": 5,
+        "relation": "advmod"
+      },
+      "5": {
+        "cont": "模糊",
+        "parent": 0,
+        "relation": "root"
+      },
+      "6": {
+        "cont": "了",
+        "parent": 5,
+        "relation": "dep"
+      },
+      "7": {
+        "cont": "，",
+        "parent": 5,
+        "relation": "punct"
+      },
+      "8": {
+        "cont": "你",
+        "parent": 11,
+        "relation": "nsubj"
+      },
+      "9": {
+        "cont": "能",
+        "parent": 11,
+        "relation": "mmod"
+      },
+      "10": {
+        "cont": "再",
+        "parent": 11,
+        "relation": "advmod"
+      },
+      "11": {
+        "cont": "拍",
+        "parent": 5,
+        "relation": "dep"
+      },
+      "12": {
+        "cont": "一",
+        "parent": 13,
+        "relation": "nummod"
+      },
+      "13": {
+        "cont": "张",
+        "parent": 14,
+        "relation": "clf"
+      },
+      "14": {
+        "cont": "清晰",
+        "parent": 11,
+        "relation": "dobj"
+      },
+      "15": {
+        "cont": "的",
+        "parent": 14,
+        "relation": "cpm"
+      },
+      "16": {
+        "cont": "吗",
+        "parent": 11,
+        "relation": "dep"
+      },
+      "17": {
+        "cont": "？",
+        "parent": 5,
+        "relation": "punct"
+      }
+    }
+  },
+  "8": {
+    "cont": "虽然他很忙，但他还是抽出时间来参加了聚会。",
+    "word": {
+      "1": {
+        "cont": "虽然",
+        "parent": 4,
+        "relation": "advmod"
+      },
+      "2": {
+        "cont": "他",
+        "parent": 4,
+        "relation": "nsubj"
+      },
+      "3": {
+        "cont": "很",
+        "parent": 4,
+        "relation": "advmod"
+      },
+      "4": {
+        "cont": "忙",
+        "parent": 9,
+        "relation": "pccomp"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 9,
+        "relation": "punct"
+      },
+      "6": {
+        "cont": "但",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "7": {
+        "cont": "他",
+        "parent": 9,
+        "relation": "nsubj"
+      },
+      "8": {
+        "cont": "还是",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "9": {
+        "cont": "抽出",
+        "parent": 0,
+        "relation": "root"
+      },
+      "10": {
+        "cont": "时间",
+        "parent": 9,
+        "relation": "dobj"
+      },
+      "11": {
+        "cont": "来",
+        "parent": 12,
+        "relation": "mmod"
+      },
+      "12": {
+        "cont": "参加",
+        "parent": 9,
+        "relation": "conj"
+      },
+      "13": {
+        "cont": "了",
+        "parent": 12,
+        "relation": "asp"
+      },
+      "14": {
+        "cont": "聚会",
+        "parent": 12,
+        "relation": "dobj"
+      },
+      "15": {
+        "cont": "。",
+        "parent": 9,
+        "relation": "punct"
+      }
+    }
+  },
+  "9": {
+    "cont": "她对这个问题非常感兴趣，经常做一些相关的研究。",
+    "word": {
+      "1": {
+        "cont": "她",
+        "parent": 6,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "对",
+        "parent": 6,
+        "relation": "prep"
+      },
+      "3": {
+        "cont": "这个",
+        "parent": 4,
+        "relation": "det"
+      },
+      "4": {
+        "cont": "问题",
+        "parent": 2,
+        "relation": "pobj"
+      },
+      "5": {
+        "cont": "非常",
+        "parent": 6,
+        "relation": "advmod"
+      },
+      "6": {
+        "cont": "感兴趣",
+        "parent": 0,
+        "relation": "root"
+      },
+      "7": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "punct"
+      },
+      "8": {
+        "cont": "经常",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "9": {
+        "cont": "做",
+        "parent": 6,
+        "relation": "dep"
+      },
+      "10": {
+        "cont": "一些",
+        "parent": 13,
+        "relation": "nummod"
+      },
+      "11": {
+        "cont": "相关",
+        "parent": 13,
+        "relation": "assmod"
+      },
+      "12": {
+        "cont": "的",
+        "parent": 11,
+        "relation": "assm"
+      },
+      "13": {
+        "cont": "研究",
+        "parent": 9,
+        "relation": "dobj"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 6,
+        "relation": "punct"
+      }
+    }
+  },
+  "10": {
+    "cont": "他认为这个计划不太现实，提出了自己的想法。",
+    "word": {
+      "1": {
+        "cont": "他",
+        "parent": 2,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "认为",
+        "parent": 0,
+        "relation": "root"
+      },
+      "3": {
+        "cont": "这个",
+        "parent": 4,
+        "relation": "det"
+      },
+      "4": {
+        "cont": "计划",
+        "parent": 6,
+        "relation": "nsubj"
+      },
+      "5": {
+        "cont": "不太",
+        "parent": 6,
+        "relation": "advmod"
+      },
+      "6": {
+        "cont": "现实",
+        "parent": 2,
+        "relation": "ccomp"
+      },
+      "7": {
+        "cont": "，",
+        "parent": 2,
+        "relation": "punct"
+      },
+      "8": {
+        "cont": "提出",
+        "parent": 2,
+        "relation": "dep"
+      },
+      "9": {
+        "cont": "了",
+        "parent": 8,
+        "relation": "asp"
+      },
+      "10": {
+        "cont": "自己",
+        "parent": 12,
+        "relation": "assmod"
+      },
+      "11": {
+        "cont": "的",
+        "parent": 10,
+        "relation": "assm"
+      },
+      "12": {
+        "cont": "想法",
+        "parent": 8,
+        "relation": "dobj"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "punct"
+      }
+    }
+  },
+  "11": {
+    "cont": "我们需要进一步了解客户的需求，才能设计出更好的产品。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 4,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "需要",
+        "parent": 4,
+        "relation": "mmod"
+      },
+      "3": {
+        "cont": "进一步",
+        "parent": 4,
+        "relation": "advmod"
+      },
+      "4": {
+        "cont": "了解",
+        "parent": 0,
+        "relation": "root"
+      },
+      "5": {
+        "cont": "客户",
+        "parent": 7,
+        "relation": "assmod"
+      },
+      "6": {
+        "cont": "的",
+        "parent": 5,
+        "relation": "assm"
+      },
+      "7": {
+        "cont": "需求",
+        "parent": 4,
+        "relation": "dobj"
+      },
+      "8": {
+        "cont": "，",
+        "parent": 4,
+        "relation": "punct"
+      },
+      "9": {
+        "cont": "才",
+        "parent": 11,
+        "relation": "advmod"
+      },
+      "10": {
+        "cont": "能",
+        "parent": 11,
+        "relation": "mmod"
+      },
+      "11": {
+        "cont": "设计",
+        "parent": 4,
+        "relation": "dep"
+      },
+      "12": {
+        "cont": "出",
+        "parent": 11,
+        "relation": "rcomp"
+      },
+      "13": {
+        "cont": "更",
+        "parent": 14,
+        "relation": "advmod"
+      },
+      "14": {
+        "cont": "好",
+        "parent": 16,
+        "relation": "rcmod"
+      },
+      "15": {
+        "cont": "的",
+        "parent": 14,
+        "relation": "cpm"
+      },
+      "16": {
+        "cont": "产品",
+        "parent": 11,
+        "relation": "dobj"
+      },
+      "17": {
+        "cont": "。",
+        "parent": 4,
+        "relation": "punct"
+      }
+    }
+  },
+  "12": {
+    "cont": "他的英语水平非常高，经常去国外出差。",
+    "word": {
+      "1": {
+        "cont": "他",
+        "parent": 4,
+        "relation": "assmod"
+      },
+      "2": {
+        "cont": "的",
+        "parent": 1,
+        "relation": "assm"
+      },
+      "3": {
+        "cont": "英语",
+        "parent": 4,
+        "relation": "nn"
+      },
+      "4": {
+        "cont": "水平",
+        "parent": 6,
+        "relation": "nsubj"
+      },
+      "5": {
+        "cont": "非常",
+        "parent": 6,
+        "relation": "advmod"
+      },
+      "6": {
+        "cont": "高",
+        "parent": 0,
+        "relation": "root"
+      },
+      "7": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "punct"
+      },
+      "8": {
+        "cont": "经常",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "9": {
+        "cont": "去",
+        "parent": 6,
+        "relation": "conj"
+      },
+      "10": {
+        "cont": "国外",
+        "parent": 9,
+        "relation": "dobj"
+      },
+      "11": {
+        "cont": "出差",
+        "parent": 9,
+        "relation": "conj"
+      },
+      "12": {
+        "cont": "。",
+        "parent": 6,
+        "relation": "punct"
+      }
+    }
+  },
+  "13": {
+    "cont": "我们不应该只看表面现象，而应该深入思考问题的本质。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 5,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "不",
+        "parent": 5,
+        "relation": "neg"
+      },
+      "3": {
+        "cont": "应该",
+        "parent": 5,
+        "relation": "mmod"
+      },
+      "4": {
+        "cont": "只",
+        "parent": 5,
+        "relation": "advmod"
+      },
+      "5": {
+        "cont": "看",
+        "parent": 0,
+        "relation": "root"
+      },
+      "6": {
+        "cont": "表面",
+        "parent": 7,
+        "relation": "nn"
+      },
+      "7": {
+        "cont": "现象",
+        "parent": 5,
+        "relation": "dobj"
+      },
+      "8": {
+        "cont": "，",
+        "parent": 5,
+        "relation": "punct"
+      },
+      "9": {
+        "cont": "而",
+        "parent": 5,
+        "relation": "cc"
+      },
+      "10": {
+        "cont": "应该",
+        "parent": 12,
+        "relation": "mmod"
+      },
+      "11": {
+        "cont": "深入",
+        "parent": 12,
+        "relation": "advmod"
+      },
+      "12": {
+        "cont": "思考",
+        "parent": 5,
+        "relation": "dep"
+      },
+      "13": {
+        "cont": "问题",
+        "parent": 15,
+        "relation": "assmod"
+      },
+      "14": {
+        "cont": "的",
+        "parent": 13,
+        "relation": "assm"
+      },
+      "15": {
+        "cont": "本质",
+        "parent": 12,
+        "relation": "dobj"
+      },
+      "16": {
+        "cont": "。",
+        "parent": 5,
+        "relation": "punct"
+      }
+    }
+  },
+  "14": {
+    "cont": "这个城市的交通非常便利，地铁和公交车都很方便。",
+    "word": {
+      "1": {
+        "cont": "这个",
+        "parent": 2,
+        "relation": "det"
+      },
+      "2": {
+        "cont": "城市",
+        "parent": 4,
+        "relation": "assmod"
+      },
+      "3": {
+        "cont": "的",
+        "parent": 2,
+        "relation": "assm"
+      },
+      "4": {
+        "cont": "交通",
+        "parent": 6,
+        "relation": "nsubj"
+      },
+      "5": {
+        "cont": "非常",
+        "parent": 6,
+        "relation": "advmod"
+      },
+      "6": {
+        "cont": "便利",
+        "parent": 0,
+        "relation": "root"
+      },
+      "7": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "punct"
+      },
+      "8": {
+        "cont": "地铁",
+        "parent": 10,
+        "relation": "conj"
+      },
+      "9": {
+        "cont": "和",
+        "parent": 10,
+        "relation": "cc"
+      },
+      "10": {
+        "cont": "公交车",
+        "parent": 13,
+        "relation": "nsubj"
+      },
+      "11": {
+        "cont": "都",
+        "parent": 13,
+        "relation": "advmod"
+      },
+      "12": {
+        "cont": "很",
+        "parent": 13,
+        "relation": "advmod"
+      },
+      "13": {
+        "cont": "方便",
+        "parent": 6,
+        "relation": "conj"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 6,
+        "relation": "punct"
+      }
+    }
+  },
+  "15": {
+    "cont": "他每天都会花很多时间在学习上，非常努力。",
+    "word": {
+      "1": {
+        "cont": "他",
+        "parent": 6,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "每",
+        "parent": 6,
+        "relation": "dep"
+      },
+      "3": {
+        "cont": "天",
+        "parent": 2,
+        "relation": "clf"
+      },
+      "4": {
+        "cont": "都",
+        "parent": 6,
+        "relation": "advmod"
+      },
+      "5": {
+        "cont": "会",
+        "parent": 6,
+        "relation": "mmod"
+      },
+      "6": {
+        "cont": "花",
+        "parent": 0,
+        "relation": "root"
+      },
+      "7": {
+        "cont": "很多",
+        "parent": 8,
+        "relation": "nummod"
+      },
+      "8": {
+        "cont": "时间",
+        "parent": 6,
+        "relation": "dobj"
+      },
+      "9": {
+        "cont": "在",
+        "parent": 6,
+        "relation": "conj"
+      },
+      "10": {
+        "cont": "学习",
+        "parent": 11,
+        "relation": "lccomp"
+      },
+      "11": {
+        "cont": "上",
+        "parent": 9,
+        "relation": "plmod"
+      },
+      "12": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "punct"
+      },
+      "13": {
+        "cont": "非常",
+        "parent": 14,
+        "relation": "advmod"
+      },
+      "14": {
+        "cont": "努力",
+        "parent": 6,
+        "relation": "dep"
+      },
+      "15": {
+        "cont": "。",
+        "parent": 6,
+        "relation": "punct"
+      }
+    }
+  },
+  "16": {
+    "cont": "我们应该珍惜时间，把握每一分每一秒。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 3,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "应该",
+        "parent": 3,
+        "relation": "mmod"
+      },
+      "3": {
+        "cont": "珍惜",
+        "parent": 0,
+        "relation": "root"
+      },
+      "4": {
+        "cont": "时间",
+        "parent": 3,
+        "relation": "dobj"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 3,
+        "relation": "punct"
+      },
+      "6": {
+        "cont": "把握",
+        "parent": 3,
+        "relation": "conj"
+      },
+      "7": {
+        "cont": "每",
+        "parent": 6,
+        "relation": "dep"
+      },
+      "8": {
+        "cont": "一",
+        "parent": 9,
+        "relation": "nummod"
+      },
+      "9": {
+        "cont": "分",
+        "parent": 7,
+        "relation": "dep"
+      },
+      "10": {
+        "cont": "每",
+        "parent": 7,
+        "relation": "dep"
+      },
+      "11": {
+        "cont": "一",
+        "parent": 12,
+        "relation": "nummod"
+      },
+      "12": {
+        "cont": "秒",
+        "parent": 10,
+        "relation": "dep"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 3,
+        "relation": "punct"
+      }
+    }
+  },
+  "17": {
+    "cont": "我们应该鼓励孩子多读书，开阔视野。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 3,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "应该",
+        "parent": 3,
+        "relation": "mmod"
+      },
+      "3": {
+        "cont": "鼓励",
+        "parent": 0,
+        "relation": "root"
+      },
+      "4": {
+        "cont": "孩子",
+        "parent": 3,
+        "relation": "dobj"
+      },
+      "5": {
+        "cont": "多",
+        "parent": 6,
+        "relation": "advmod"
+      },
+      "6": {
+        "cont": "读书",
+        "parent": 3,
+        "relation": "dep"
+      },
+      "7": {
+        "cont": "，",
+        "parent": 6,
+        "relation": "punct"
+      },
+      "8": {
+        "cont": "开阔",
+        "parent": 6,
+        "relation": "dep"
+      },
+      "9": {
+        "cont": "视野",
+        "parent": 8,
+        "relation": "dobj"
+      },
+      "10": {
+        "cont": "。",
+        "parent": 3,
+        "relation": "punct"
+      }
+    }
+  },
+  "18": {
+    "cont": "这个音乐会非常精彩，我非常喜欢。",
+    "word": {
+      "1": {
+        "cont": "这个",
+        "parent": 2,
+        "relation": "det"
+      },
+      "2": {
+        "cont": "音乐会",
+        "parent": 4,
+        "relation": "nsubj"
+      },
+      "3": {
+        "cont": "非常",
+        "parent": 4,
+        "relation": "advmod"
+      },
+      "4": {
+        "cont": "精彩",
+        "parent": 0,
+        "relation": "root"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 4,
+        "relation": "punct"
+      },
+      "6": {
+        "cont": "我",
+        "parent": 8,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "非常",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "8": {
+        "cont": "喜欢",
+        "parent": 4,
+        "relation": "conj"
+      },
+      "9": {
+        "cont": "。",
+        "parent": 4,
+        "relation": "punct"
+      }
+    }
+  },
+  "19": {
+    "cont": "据主人说，这里环境幽静，客房又便宜，能住六七个人的房间，一周才用３７００多挪威克朗（合人民币６５００多元），因而来往客人很多，好多会议都在这里开。",
+    "word": {
+      "1": {
+        "cont": "据",
+        "parent": 7,
+        "relation": "prep"
+      },
+      "2": {
+        "cont": "主人",
+        "parent": 3,
+        "relation": "nsubj"
+      },
+      "3": {
+        "cont": "说",
+        "parent": 1,
+        "relation": "pccomp"
+      },
+      "4": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "punct"
+      },
+      "5": {
+        "cont": "这里",
+        "parent": 7,
+        "relation": "nsubj"
+      },
+      "6": {
+        "cont": "环境",
+        "parent": 7,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "幽静",
+        "parent": 0,
+        "relation": "root"
+      },
+      "8": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "punct"
+      },
+      "9": {
+        "cont": "客房",
+        "parent": 11,
+        "relation": "nsubj"
+      },
+      "10": {
+        "cont": "又",
+        "parent": 11,
+        "relation": "advmod"
+      },
+      "11": {
+        "cont": "便宜",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "12": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "punct"
+      },
+      "13": {
+        "cont": "能",
+        "parent": 14,
+        "relation": "mmod"
+      },
+      "14": {
+        "cont": "住",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "15": {
+        "cont": "六七",
+        "parent": 16,
+        "relation": "nummod"
+      },
+      "16": {
+        "cont": "个",
+        "parent": 17,
+        "relation": "clf"
+      },
+      "17": {
+        "cont": "人",
+        "parent": 19,
+        "relation": "assmod"
+      },
+      "18": {
+        "cont": "的",
+        "parent": 17,
+        "relation": "assm"
+      },
+      "19": {
+        "cont": "房间",
+        "parent": 14,
+        "relation": "dobj"
+      },
+      "20": {
+        "cont": "，",
+        "parent": 14,
+        "relation": "punct"
+      },
+      "21": {
+        "cont": "一",
+        "parent": 22,
+        "relation": "nummod"
+      },
+      "22": {
+        "cont": "周",
+        "parent": 24,
+        "relation": "dep"
+      },
+      "23": {
+        "cont": "才",
+        "parent": 24,
+        "relation": "advmod"
+      },
+      "24": {
+        "cont": "用",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "25": {
+        "cont": "３７００",
+        "parent": 28,
+        "relation": "nummod"
+      },
+      "26": {
+        "cont": "多",
+        "parent": 28,
+        "relation": "nummod"
+      },
+      "27": {
+        "cont": "挪威",
+        "parent": 28,
+        "relation": "dep"
+      },
+      "28": {
+        "cont": "克朗",
+        "parent": 24,
+        "relation": "range"
+      },
+      "29": {
+        "cont": "（",
+        "parent": 30,
+        "relation": "punct"
+      },
+      "30": {
+        "cont": "合",
+        "parent": 28,
+        "relation": "prnmod"
+      },
+      "31": {
+        "cont": "人民币",
+        "parent": 34,
+        "relation": "dep"
+      },
+      "32": {
+        "cont": "６５００",
+        "parent": 34,
+        "relation": "nummod"
+      },
+      "33": {
+        "cont": "多",
+        "parent": 34,
+        "relation": "nummod"
+      },
+      "34": {
+        "cont": "元",
+        "parent": 30,
+        "relation": "range"
+      },
+      "35": {
+        "cont": "）",
+        "parent": 30,
+        "relation": "punct"
+      },
+      "36": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "punct"
+      },
+      "37": {
+        "cont": "因而",
+        "parent": 40,
+        "relation": "advmod"
+      },
+      "38": {
+        "cont": "来往",
+        "parent": 39,
+        "relation": "rcmod"
+      },
+      "39": {
+        "cont": "客人",
+        "parent": 40,
+        "relation": "nsubj"
+      },
+      "40": {
+        "cont": "很多",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "41": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "punct"
+      },
+      "42": {
+        "cont": "好多",
+        "parent": 43,
+        "relation": "nummod"
+      },
+      "43": {
+        "cont": "会议",
+        "parent": 47,
+        "relation": "nsubj"
+      },
+      "44": {
+        "cont": "都",
+        "parent": 47,
+        "relation": "advmod"
+      },
+      "45": {
+        "cont": "在",
+        "parent": 47,
+        "relation": "prep"
+      },
+      "46": {
+        "cont": "这里",
+        "parent": 45,
+        "relation": "pobj"
+      },
+      "47": {
+        "cont": "开",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "48": {
+        "cont": "。",
+        "parent": 7,
+        "relation": "punct"
+      }
+    }
+  },
+  "20": {
+    "cont": "连日来，省市主要领导纷纷下到困难企业慰问职工。",
+    "word": {
+      "1": {
+        "cont": "连日来",
+        "parent": 7,
+        "relation": "advmod"
+      },
+      "2": {
+        "cont": "，",
+        "parent": 7,
+        "relation": "punct"
+      },
+      "3": {
+        "cont": "省市",
+        "parent": 5,
+        "relation": "nn"
+      },
+      "4": {
+        "cont": "主要",
+        "parent": 5,
+        "relation": "amod"
+      },
+      "5": {
+        "cont": "领导",
+        "parent": 7,
+        "relation": "nsubj"
+      },
+      "6": {
+        "cont": "纷纷",
+        "parent": 7,
+        "relation": "advmod"
+      },
+      "7": {
+        "cont": "下",
+        "parent": 0,
+        "relation": "root"
+      },
+      "8": {
+        "cont": "到",
+        "parent": 7,
+        "relation": "rcomp"
+      },
+      "9": {
+        "cont": "困难",
+        "parent": 10,
+        "relation": "amod"
+      },
+      "10": {
+        "cont": "企业",
+        "parent": 8,
+        "relation": "dobj"
+      },
+      "11": {
+        "cont": "慰问",
+        "parent": 7,
+        "relation": "conj"
+      },
+      "12": {
+        "cont": "职工",
+        "parent": 11,
+        "relation": "dobj"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 7,
+        "relation": "punct"
+      }
+    }
+  },
+  "21": {
+    "cont": "这项工程建成后将大大削减郑州市的污染负荷。",
+    "word": {
+      "1": {
+        "cont": "这",
+        "parent": 3,
+        "relation": "det"
+      },
+      "2": {
+        "cont": "项",
+        "parent": 1,
+        "relation": "clf"
+      },
+      "3": {
+        "cont": "工程",
+        "parent": 8,
+        "relation": "nsubj"
+      },
+      "4": {
+        "cont": "建成",
+        "parent": 5,
+        "relation": "lccomp"
+      },
+      "5": {
+        "cont": "后",
+        "parent": 8,
+        "relation": "loc"
+      },
+      "6": {
+        "cont": "将",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "7": {
+        "cont": "大大",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "8": {
+        "cont": "削减",
+        "parent": 0,
+        "relation": "root"
+      },
+      "9": {
+        "cont": "郑州市",
+        "parent": 12,
+        "relation": "assmod"
+      },
+      "10": {
+        "cont": "的",
+        "parent": 9,
+        "relation": "assm"
+      },
+      "11": {
+        "cont": "污染",
+        "parent": 12,
+        "relation": "nn"
+      },
+      "12": {
+        "cont": "负荷",
+        "parent": 8,
+        "relation": "dobj"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 8,
+        "relation": "punct"
+      }
+    }
+  },
+  "22": {
+    "cont": "总的说，我们的绝大多数干部能够正确对待个人的进退留转问题。",
+    "word": {
+      "1": {
+        "cont": "总的说",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "2": {
+        "cont": "，",
+        "parent": 9,
+        "relation": "punct"
+      },
+      "3": {
+        "cont": "我们",
+        "parent": 6,
+        "relation": "assmod"
+      },
+      "4": {
+        "cont": "的",
+        "parent": 3,
+        "relation": "assm"
+      },
+      "5": {
+        "cont": "绝大多数",
+        "parent": 6,
+        "relation": "nummod"
+      },
+      "6": {
+        "cont": "干部",
+        "parent": 9,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "能够",
+        "parent": 9,
+        "relation": "mmod"
+      },
+      "8": {
+        "cont": "正确",
+        "parent": 9,
+        "relation": "advmod"
+      },
+      "9": {
+        "cont": "对待",
+        "parent": 0,
+        "relation": "root"
+      },
+      "10": {
+        "cont": "个人",
+        "parent": 15,
+        "relation": "assmod"
+      },
+      "11": {
+        "cont": "的",
+        "parent": 10,
+        "relation": "assm"
+      },
+      "12": {
+        "cont": "进退",
+        "parent": 15,
+        "relation": "vmod"
+      },
+      "13": {
+        "cont": "留",
+        "parent": 15,
+        "relation": "vmod"
+      },
+      "14": {
+        "cont": "转",
+        "parent": 15,
+        "relation": "nn"
+      },
+      "15": {
+        "cont": "问题",
+        "parent": 9,
+        "relation": "dobj"
+      },
+      "16": {
+        "cont": "。",
+        "parent": 9,
+        "relation": "punct"
+      }
+    }
+  },
+  "23": {
+    "cont": "本报讯我国首张采用多媒体技术制作的《中国医药企业名典》光盘，近日驶上国际信息高速公路。",
+    "word": {
+      "1": {
+        "cont": "本报",
+        "parent": 20,
+        "relation": "dep"
+      },
+      "2": {
+        "cont": "讯",
+        "parent": 20,
+        "relation": "nsubj"
+      },
+      "3": {
+        "cont": "我国",
+        "parent": 17,
+        "relation": "nn"
+      },
+      "4": {
+        "cont": "首",
+        "parent": 5,
+        "relation": "ordmod"
+      },
+      "5": {
+        "cont": "张",
+        "parent": 17,
+        "relation": "clf"
+      },
+      "6": {
+        "cont": "采用",
+        "parent": 17,
+        "relation": "rcmod"
+      },
+      "7": {
+        "cont": "多媒体",
+        "parent": 8,
+        "relation": "nn"
+      },
+      "8": {
+        "cont": "技术",
+        "parent": 6,
+        "relation": "dobj"
+      },
+      "9": {
+        "cont": "制作",
+        "parent": 6,
+        "relation": "conj"
+      },
+      "10": {
+        "cont": "的",
+        "parent": 6,
+        "relation": "cpm"
+      },
+      "11": {
+        "cont": "《",
+        "parent": 15,
+        "relation": "punct"
+      },
+      "12": {
+        "cont": "中国",
+        "parent": 14,
+        "relation": "nn"
+      },
+      "13": {
+        "cont": "医药",
+        "parent": 14,
+        "relation": "nn"
+      },
+      "14": {
+        "cont": "企业",
+        "parent": 15,
+        "relation": "nn"
+      },
+      "15": {
+        "cont": "名典",
+        "parent": 17,
+        "relation": "nn"
+      },
+      "16": {
+        "cont": "》",
+        "parent": 15,
+        "relation": "punct"
+      },
+      "17": {
+        "cont": "光盘",
+        "parent": 20,
+        "relation": "nsubj"
+      },
+      "18": {
+        "cont": "，",
+        "parent": 20,
+        "relation": "punct"
+      },
+      "19": {
+        "cont": "近日",
+        "parent": 20,
+        "relation": "tmod"
+      },
+      "20": {
+        "cont": "驶",
+        "parent": 0,
+        "relation": "root"
+      },
+      "21": {
+        "cont": "上",
+        "parent": 20,
+        "relation": "rcomp"
+      },
+      "22": {
+        "cont": "国际",
+        "parent": 24,
+        "relation": "nn"
+      },
+      "23": {
+        "cont": "信息",
+        "parent": 24,
+        "relation": "nn"
+      },
+      "24": {
+        "cont": "高速公路",
+        "parent": 20,
+        "relation": "dobj"
+      },
+      "25": {
+        "cont": "。",
+        "parent": 20,
+        "relation": "punct"
+      }
+    }
+  },
+  "24": {
+    "cont": "德国共花１·６亿马克购买的迎新烟花绝大部分从中国进口。",
+    "word": {
+      "1": {
+        "cont": "德国",
+        "parent": 3,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "共",
+        "parent": 3,
+        "relation": "advmod"
+      },
+      "3": {
+        "cont": "花",
+        "parent": 9,
+        "relation": "rcmod"
+      },
+      "4": {
+        "cont": "１·６亿",
+        "parent": 5,
+        "relation": "nummod"
+      },
+      "5": {
+        "cont": "马克",
+        "parent": 3,
+        "relation": "dep"
+      },
+      "6": {
+        "cont": "购买",
+        "parent": 3,
+        "relation": "conj"
+      },
+      "7": {
+        "cont": "的",
+        "parent": 3,
+        "relation": "cpm"
+      },
+      "8": {
+        "cont": "迎新",
+        "parent": 9,
+        "relation": "amod"
+      },
+      "9": {
+        "cont": "烟花",
+        "parent": 13,
+        "relation": "nsubj"
+      },
+      "10": {
+        "cont": "绝大部分",
+        "parent": 13,
+        "relation": "nsubj"
+      },
+      "11": {
+        "cont": "从",
+        "parent": 13,
+        "relation": "prep"
+      },
+      "12": {
+        "cont": "中国",
+        "parent": 11,
+        "relation": "pobj"
+      },
+      "13": {
+        "cont": "进口",
+        "parent": 0,
+        "relation": "root"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 13,
+        "relation": "punct"
+      }
+    }
+  },
+  "25": {
+    "cont": "５月１５日，北京海关调查局根据举报线索，费尽周折陆续找到了１０５辆海马轿车。",
+    "word": {
+      "1": {
+        "cont": "５月",
+        "parent": 2,
+        "relation": "nn"
+      },
+      "2": {
+        "cont": "１５日",
+        "parent": 11,
+        "relation": "tmod"
+      },
+      "3": {
+        "cont": "，",
+        "parent": 11,
+        "relation": "punct"
+      },
+      "4": {
+        "cont": "北京",
+        "parent": 6,
+        "relation": "nn"
+      },
+      "5": {
+        "cont": "海关",
+        "parent": 6,
+        "relation": "nn"
+      },
+      "6": {
+        "cont": "调查局",
+        "parent": 11,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "根据",
+        "parent": 11,
+        "relation": "prep"
+      },
+      "8": {
+        "cont": "举报",
+        "parent": 9,
+        "relation": "nn"
+      },
+      "9": {
+        "cont": "线索",
+        "parent": 7,
+        "relation": "pobj"
+      },
+      "10": {
+        "cont": "，",
+        "parent": 11,
+        "relation": "punct"
+      },
+      "11": {
+        "cont": "费尽",
+        "parent": 0,
+        "relation": "root"
+      },
+      "12": {
+        "cont": "周折",
+        "parent": 11,
+        "relation": "dobj"
+      },
+      "13": {
+        "cont": "陆续",
+        "parent": 14,
+        "relation": "advmod"
+      },
+      "14": {
+        "cont": "找到",
+        "parent": 11,
+        "relation": "conj"
+      },
+      "15": {
+        "cont": "了",
+        "parent": 14,
+        "relation": "asp"
+      },
+      "16": {
+        "cont": "１０５",
+        "parent": 17,
+        "relation": "nummod"
+      },
+      "17": {
+        "cont": "辆",
+        "parent": 19,
+        "relation": "clf"
+      },
+      "18": {
+        "cont": "海马",
+        "parent": 19,
+        "relation": "nn"
+      },
+      "19": {
+        "cont": "轿车",
+        "parent": 14,
+        "relation": "dobj"
+      },
+      "20": {
+        "cont": "。",
+        "parent": 11,
+        "relation": "punct"
+      }
+    }
+  },
+  "26": {
+    "cont": "我们认为，对伊拉克的制裁不能长期进行下去。",
+    "word": {
+      "1": {
+        "cont": "我们",
+        "parent": 2,
+        "relation": "nsubj"
+      },
+      "2": {
+        "cont": "认为",
+        "parent": 0,
+        "relation": "root"
+      },
+      "3": {
+        "cont": "，",
+        "parent": 2,
+        "relation": "punct"
+      },
+      "4": {
+        "cont": "对",
+        "parent": 7,
+        "relation": "assmod"
+      },
+      "5": {
+        "cont": "伊拉克",
+        "parent": 4,
+        "relation": "pobj"
+      },
+      "6": {
+        "cont": "的",
+        "parent": 4,
+        "relation": "assm"
+      },
+      "7": {
+        "cont": "制裁",
+        "parent": 11,
+        "relation": "nsubj"
+      },
+      "8": {
+        "cont": "不",
+        "parent": 11,
+        "relation": "neg"
+      },
+      "9": {
+        "cont": "能",
+        "parent": 11,
+        "relation": "mmod"
+      },
+      "10": {
+        "cont": "长期",
+        "parent": 11,
+        "relation": "advmod"
+      },
+      "11": {
+        "cont": "进行",
+        "parent": 2,
+        "relation": "ccomp"
+      },
+      "12": {
+        "cont": "下去",
+        "parent": 11,
+        "relation": "rcomp"
+      },
+      "13": {
+        "cont": "。",
+        "parent": 2,
+        "relation": "punct"
+      }
+    }
+  },
+  "27": {
+    "cont": "现实生活中，只有职业的不同，没有人的贵贱。",
+    "word": {
+      "1": {
+        "cont": "现实",
+        "parent": 2,
+        "relation": "amod"
+      },
+      "2": {
+        "cont": "生活",
+        "parent": 3,
+        "relation": "lobj"
+      },
+      "3": {
+        "cont": "中",
+        "parent": 10,
+        "relation": "loc"
+      },
+      "4": {
+        "cont": "，",
+        "parent": 10,
+        "relation": "punct"
+      },
+      "5": {
+        "cont": "只有",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "6": {
+        "cont": "职业",
+        "parent": 8,
+        "relation": "assmod"
+      },
+      "7": {
+        "cont": "的",
+        "parent": 6,
+        "relation": "assm"
+      },
+      "8": {
+        "cont": "不同",
+        "parent": 10,
+        "relation": "dobj"
+      },
+      "9": {
+        "cont": "，",
+        "parent": 10,
+        "relation": "punct"
+      },
+      "10": {
+        "cont": "没有",
+        "parent": 0,
+        "relation": "root"
+      },
+      "11": {
+        "cont": "人",
+        "parent": 13,
+        "relation": "assmod"
+      },
+      "12": {
+        "cont": "的",
+        "parent": 11,
+        "relation": "assm"
+      },
+      "13": {
+        "cont": "贵贱",
+        "parent": 10,
+        "relation": "dobj"
+      },
+      "14": {
+        "cont": "。",
+        "parent": 10,
+        "relation": "punct"
+      }
+    }
+  },
+  "28": {
+    "cont": "从跨出校门那天，你就向往着踏上南极。",
+    "word": {
+      "1": {
+        "cont": "从",
+        "parent": 8,
+        "relation": "prep"
+      },
+      "2": {
+        "cont": "跨出",
+        "parent": 4,
+        "relation": "rcmod"
+      },
+      "3": {
+        "cont": "校门",
+        "parent": 2,
+        "relation": "dobj"
+      },
+      "4": {
+        "cont": "那天",
+        "parent": 1,
+        "relation": "pobj"
+      },
+      "5": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "punct"
+      },
+      "6": {
+        "cont": "你",
+        "parent": 8,
+        "relation": "nsubj"
+      },
+      "7": {
+        "cont": "就",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "8": {
+        "cont": "向往",
+        "parent": 0,
+        "relation": "root"
+      },
+      "9": {
+        "cont": "着",
+        "parent": 8,
+        "relation": "asp"
+      },
+      "10": {
+        "cont": "踏上",
+        "parent": 8,
+        "relation": "ccomp"
+      },
+      "11": {
+        "cont": "南极",
+        "parent": 10,
+        "relation": "dobj"
+      },
+      "12": {
+        "cont": "。",
+        "parent": 8,
+        "relation": "punct"
+      }
+    }
+  },
+  "29": {
+    "cont": "另一方面，雅古布也向总理内塔尼亚胡摊牌，坚持紧缩开支，反对降低税收，以尽量减少政府的财政赤字，声称只要内塔尼亚胡屈从利维的意见，他也将辞职。",
+    "word": {
+      "1": {
+        "cont": "另一方面",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "2": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "punct"
+      },
+      "3": {
+        "cont": "雅古布",
+        "parent": 8,
+        "relation": "nsubj"
+      },
+      "4": {
+        "cont": "也",
+        "parent": 8,
+        "relation": "advmod"
+      },
+      "5": {
+        "cont": "向",
+        "parent": 8,
+        "relation": "prep"
+      },
+      "6": {
+        "cont": "总理",
+        "parent": 7,
+        "relation": "nn"
+      },
+      "7": {
+        "cont": "内塔尼亚胡",
+        "parent": 5,
+        "relation": "pobj"
+      },
+      "8": {
+        "cont": "摊牌",
+        "parent": 0,
+        "relation": "root"
+      },
+      "9": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "punct"
+      },
+      "10": {
+        "cont": "坚持",
+        "parent": 8,
+        "relation": "dep"
+      },
+      "11": {
+        "cont": "紧缩",
+        "parent": 10,
+        "relation": "ccomp"
+      },
+      "12": {
+        "cont": "开支",
+        "parent": 11,
+        "relation": "dobj"
+      },
+      "13": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "punct"
+      },
+      "14": {
+        "cont": "反对",
+        "parent": 8,
+        "relation": "dep"
+      },
+      "15": {
+        "cont": "降低",
+        "parent": 14,
+        "relation": "ccomp"
+      },
+      "16": {
+        "cont": "税收",
+        "parent": 15,
+        "relation": "dobj"
+      },
+      "17": {
+        "cont": "，",
+        "parent": 14,
+        "relation": "punct"
+      },
+      "18": {
+        "cont": "以",
+        "parent": 20,
+        "relation": "prtmod"
+      },
+      "19": {
+        "cont": "尽量",
+        "parent": 20,
+        "relation": "advmod"
+      },
+      "20": {
+        "cont": "减少",
+        "parent": 14,
+        "relation": "ccomp"
+      },
+      "21": {
+        "cont": "政府",
+        "parent": 24,
+        "relation": "assmod"
+      },
+      "22": {
+        "cont": "的",
+        "parent": 21,
+        "relation": "assm"
+      },
+      "23": {
+        "cont": "财政",
+        "parent": 24,
+        "relation": "nn"
+      },
+      "24": {
+        "cont": "赤字",
+        "parent": 20,
+        "relation": "dobj"
+      },
+      "25": {
+        "cont": "，",
+        "parent": 8,
+        "relation": "punct"
+      },
+      "26": {
+        "cont": "声称",
+        "parent": 8,
+        "relation": "dep"
+      },
+      "27": {
+        "cont": "只要",
+        "parent": 29,
+        "relation": "advmod"
+      },
+      "28": {
+        "cont": "内塔尼亚胡",
+        "parent": 29,
+        "relation": "nsubj"
+      },
+      "29": {
+        "cont": "屈从",
+        "parent": 37,
+        "relation": "pccomp"
+      },
+      "30": {
+        "cont": "利维",
+        "parent": 32,
+        "relation": "assmod"
+      },
+      "31": {
+        "cont": "的",
+        "parent": 30,
+        "relation": "assm"
+      },
+      "32": {
+        "cont": "意见",
+        "parent": 29,
+        "relation": "dobj"
+      },
+      "33": {
+        "cont": "，",
+        "parent": 37,
+        "relation": "punct"
+      },
+      "34": {
+        "cont": "他",
+        "parent": 37,
+        "relation": "nsubj"
+      },
+      "35": {
+        "cont": "也",
+        "parent": 37,
+        "relation": "advmod"
+      },
+      "36": {
+        "cont": "将",
+        "parent": 37,
+        "relation": "advmod"
+      },
+      "37": {
+        "cont": "辞职",
+        "parent": 26,
+        "relation": "ccomp"
+      },
+      "38": {
+        "cont": "。",
+        "parent": 8,
+        "relation": "punct"
+      }
+    }
+  }
+}
